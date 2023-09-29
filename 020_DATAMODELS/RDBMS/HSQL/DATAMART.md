@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<md:node xmlns:md="http://www.stambia.com/md" defType="com.stambia.rdbms.schema" id="_YCaVMF8UEe6PHahGNfrU1Q" name="DATAMART" md:ref="resource.md#_JBB9MF4CEe6CVaUmkEockA?fileId=_BDXjEF4CEe6CVaUmkEockA$type=md$name=DATAMART?" internalVersion="v2.0.0" subMd="true"/>
