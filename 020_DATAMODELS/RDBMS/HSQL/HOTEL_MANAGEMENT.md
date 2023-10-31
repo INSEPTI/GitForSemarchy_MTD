@@ -25,6 +25,19 @@
         <attribute defType="com.stambia.rdbms.colref.ref" id="_CxG60F8UEe6PHahGNfrU1Q" ref="resource.md#_CxG6wF8UEe6PHahGNfrU1Q?fileId=_AGHUIF8UEe6PHahGNfrU1Q$type=md$name=TIT_CODE?"/>
       </node>
     </node>
+    <node defType="com.stambia.rdbms.column" id="_4_dDwHfbEe6q6scjm7DRjQ" name="TEC_CREA_DATE">
+      <attribute defType="com.stambia.rdbms.column.name" id="_7guGoHfbEe6q6scjm7DRjQ" value="TEC_CREA_DATE"/>
+      <attribute defType="com.stambia.rdbms.column.type" id="_8OGKAHfbEe6q6scjm7DRjQ" value="TIMESTAMP"/>
+    </node>
+    <node defType="com.stambia.rdbms.column" id="_-ZQaAHfbEe6q6scjm7DRjQ" name="TEC_UPD_DATE">
+      <attribute defType="com.stambia.rdbms.column.name" id="__rBj4HfbEe6q6scjm7DRjQ" value="TEC_UPD_DATE"/>
+      <attribute defType="com.stambia.rdbms.column.type" id="_AODYcHfcEe6q6scjm7DRjQ" value="TIMESTAMP"/>
+    </node>
+    <node defType="com.stambia.rdbms.column" id="_CMvSsHfcEe6q6scjm7DRjQ" name="TEC_DATAFLOW">
+      <attribute defType="com.stambia.rdbms.column.name" id="_DdLm4HfcEe6q6scjm7DRjQ" value="TEC_DATAFLOW"/>
+      <attribute defType="com.stambia.rdbms.column.type" id="_JGeKoHfcEe6q6scjm7DRjQ" value="VARCHAR"/>
+      <attribute defType="com.stambia.rdbms.column.size" id="_KDE80HfcEe6q6scjm7DRjQ" value="50"/>
+    </node>
   </node>
   <node defType="com.stambia.rdbms.datastore" id="_LA9qAWE2Ee6HuOB7o3b2AA" name="T_PHONE">
     <attribute defType="com.stambia.rdbms.datastore.name" id="_LA9qAmE2Ee6HuOB7o3b2AA" value="T_PHONE"/>
